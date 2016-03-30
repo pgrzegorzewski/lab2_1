@@ -10,7 +10,7 @@ package edu.iis.mto.bsearch;
  * 
  */
 public class BinarySearch {
-
+	int a
 	/**
 	 * Metoda realizujaca wyszukiwanie binarne
 	 * 
