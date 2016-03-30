@@ -9,9 +9,7 @@ public class SearchResult {
 	private int position = NOT_FOUND;
 
 	public boolean isFound() {
-		lalalalallalala //bug
 		return position > NOT_FOUND;
-		
 	}
 
 	void setPosition(int position) {
